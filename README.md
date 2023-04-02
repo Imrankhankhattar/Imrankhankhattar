@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Imrankhan
-- 👀 I’m interested in any interesrting work of programming !
+- 👀 I’m interested in any interesting programming work!
 - 🌱 I’m currently software engineer at Tkxel-Pakistan
 - 💞️ I’m working on a billing product.
 - 📫 You can reach me via email : imrank2018@namal.edu.pk
