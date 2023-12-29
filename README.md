@@ -1,10 +1,17 @@
-- 👋 Hi, I’m @Imrankhan
-- 👀 I’m interested in any interesting programming work!
-- 🌱 I’m currently software engineer at Tkxel-Pakistan
-- 💞️ I’m working on a billing product.
-- 📫 You can reach me via email : imrank2018@namal.edu.pk
+# Hi there, I'm Imran Khan! 👋
 
-<!---
-Imrankhankhattar/Imrankhankhattar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm a passionate software engineer based in Pakistan, currently working at Tkxel. I enjoy taking on interesting programming challenges and am always eager to learn and grow in the world of technology.
+
+## About Me
+
+- 💼 I'm currently a Software Engineer at Tkxel, working on a billing product.
+- 🌱 I love diving into new technologies and exploring innovative solutions.
+- 🎓 Graduated from Namal Institute, pursuing a career in software engineering.
+
+## Connect with Me
+
+- 📧 Email: [imrank2018@namal.edu.pk](mailto:imrank2018@namal.edu.pk)
+
+Feel free to reach out if you have any interesting programming work or just want to connect!
+
+<!-- Happy coding! -->
